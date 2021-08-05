@@ -7,10 +7,12 @@
 - 📫 How to reach me: **sanjishmaharjan619@gmail.com**
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanjishmaharjan" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png"> alt="sanjishmaharjan" height="30" width="40" /></a>
-<a href="https://instagram.com/sanjish_mzn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanjish_mzn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sanjish.maharjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Sanjish.Maharjan" height="30" width="40" /></a>
  
+
+<a href = "https://twitter.com/sanjishmaharjan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/sanjish_mzn/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/sanjish.maharjan/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+
  
 
 </p>
