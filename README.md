@@ -20,7 +20,7 @@
 ![Sanjish's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjishMaharjan&show_icons=true&theme=radical)
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/SanjishMaharjan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SanjishMaharjan">
 </a>
 <a href="https://github.com/SanjishMaharjan?tab=followers"><img src="https://img.shields.io/github/followers/SanjishMaharjan?label=Followers&style=social" alt="GitHub Badge"></a>
