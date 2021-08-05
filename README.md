@@ -11,7 +11,7 @@
 
 <a href = "https://twitter.com/sanjishmaharjan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sanjish_mzn/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/sanjish.maharjan/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.facebook.com/sanjish.maharjan/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
  
 
